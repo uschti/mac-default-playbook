@@ -19,11 +19,11 @@ homebrew_installed_packages:
   - gpg
   - openssl
   - wget
-  - youtube-dl
 
 homebrew_taps:
   - homebrew/core
   - caskroom/cask
+  - caskroom/versions
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -41,7 +41,7 @@ homebrew_cask_apps:
   - libreoffice
   - keepassxc
   - keka
-  - synology-cloud-station
+  - cloud-station-drive
   - nextcloud
   - skype
   - smcfancontrol

@@ -23,15 +23,38 @@ You can filter which part of the provisioning process to run by specifying a set
 Applications (installed with Homebrew Cask):
 
   - [Dropbox](https://www.dropbox.com/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  - [Google Chrome](https://www.google.com/chrome/)
-  - [Handbrake](https://handbrake.fr/)
   - [Homebrew](http://brew.sh/)
+  - [Adobe Acrobat Reader] (https://acrobat.adobe.com/ch/it/acrobat/pdf-reader.html)
+  - [Caffeine] (https://caffeine.it.softonic.com/mac)
+  - [Cyberduck] (https://cyberduck.io/)
+  - [Dropbox] (https://www.dropbox.com/it/)
+  - [Java 8] (http://www.oracle.com/)
+  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  - [Gimp] (https://www.gimp.org/)
+  - [Google Chrome](https://www.google.com/chrome/)
+  - [Google Earth Pro] (https://www.google.com/intl/it/earth/desktop/)
+  - [Image 2 Icon] (http://www.img2icnsapp.com/)
+  - [Istat Menus] (https://bjango.com/mac/istatmenus/)
+  - [Libreoffice] (https://it.libreoffice.org/)
+  - [Keepassxc] (https://keepassxc.org/)
+  - [Keka] (http://www.kekaosx.com/)
+  - [Synology Cloud Station] (https://www.synology.com/)
+  - [Nextcloud] (https://nextcloud.com/)
+  - [Skype] (https://www.skype.com/)
+  - [Smcfancontrol] (https://smcfancontrol.it.uptodown.com/mac)
+  - [Thunderbird] (https://www.thunderbird.net/)
+  - [Tunnelblick] (https://tunnelblick.net/)
+  - [Vmware Fusion] (https://www.vmware.com/products/fusion.html)
+  - [Vlc] (https://www.videolan.org/)
+  - [Whatsapp] (https://www.whatsapp.com/)
+  - [Youtube to mp3] (https://www.mediahuman.com/it/youtube-to-mp3-converter/)
 
 Packages (installed with Homebrew):
 
+  - ffmpeg
   - git
   - gpg
+  - openssl
   - wget
 
 My [dotfiles](https://github.com/geerlingguy/dotfiles) are also installed into the current user's home directory, including the `.osx` dotfile for configuring many aspects of macOS for better performance and ease of use. You can disable dotfiles management by setting `configure_dotfiles: no` in your configuration.
