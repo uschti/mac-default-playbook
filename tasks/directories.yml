@@ -1,0 +1,8 @@
+---
+- name: Create any required directories
+  file:
+    path: "{{ item }}"
+    state: directory
+    recurse: yes
+    mode: 0755
+  with_items: "{{ required_directories }}"
