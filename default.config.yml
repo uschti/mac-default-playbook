@@ -10,7 +10,7 @@ dotfiles_repo: https://github.com/uschti/dotfiles-default.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/.dotfiles-default
 dotfiles_files:
-  - .macos
+  - .osx
   - .screenrc
 
 homebrew_installed_packages:
