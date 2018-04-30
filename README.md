@@ -22,6 +22,7 @@ You can filter which part of the provisioning process to run by specifying a set
 
 Applications (installed with Homebrew Cask):
 
+  - [Avg] (https://www.avg.com/)
   - [Dropbox](https://www.dropbox.com/)
   - [Homebrew](http://brew.sh/)
   - [Adobe Acrobat Reader] (https://acrobat.adobe.com/ch/it/acrobat/pdf-reader.html)
