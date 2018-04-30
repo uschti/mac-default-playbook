@@ -24,6 +24,7 @@ homebrew_taps:
   - homebrew/core
   - caskroom/cask
   - caskroom/versions
+  - caskroom/drivers
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -41,7 +42,7 @@ homebrew_cask_apps:
   - libreoffice
   - keepassxc
   - keka
-  - cloud-station-drive
+  - synology-drive
   - nextcloud
   - skype
   - smcfancontrol
